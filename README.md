@@ -1,7 +1,7 @@
 # ACPWorkbench
 
 <p align="center">
-  <b>Công cụ hỗ trợ quản lý và thao tác dự án ACP hiệu quả</b><br>
+  <b>Công cụ hiệu chỉnh các hiệu ứng âm thanh MVsilicon</b><br>
   Đơn giản • Nhanh chóng • Trực quan
 </p>
 
