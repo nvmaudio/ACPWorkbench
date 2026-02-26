@@ -45,7 +45,4 @@
 ###  Lưu lại Thông 
 
 - Vào **Downloader → Save Configurations to Flash → Next> → Next>**
-- Chọn định dạng mong muốn
-- Lưu file
-
 ---
