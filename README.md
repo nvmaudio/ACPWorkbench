@@ -4,7 +4,6 @@
   <b>Công cụ hiệu chỉnh các hiệu ứng âm thanh MVsilicon</b><br>
   Đơn giản • Nhanh chóng • Trực quan
 </p>
----
 
 ## 🚀 Tính năng chính
 
