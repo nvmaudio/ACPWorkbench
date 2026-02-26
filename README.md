@@ -15,9 +15,20 @@
 
 ## 📥 Tải xuống
 
-1. Truy cập trang **Releases** của dự án.
-2. Tải phiên bản mới nhất:
-   - `ACPWorkbench_XX.zip` (bản không cần cài đặt)
+Phiên bản mới nhất của **ACPWorkbench** được phát hành tại GitHub Releases:
+
+🔗 https://github.com/nvmaudio/ACPWorkbench/releases/tag/ACPWorkbench
+
+### Các gói phát hành
+
+- `ACPWorkbench_XX.zip` – Phiên bản Portable (không cần cài đặt)
+
+### Hướng dẫn tải
+
+1. Truy cập link Releases ở trên.
+2. Chọn phiên bản mới nhất.
+3. Tải file `ACPWorkbench_XX.zip` trong mục **Assets**.
+4. Giải nén và chạy `ACPWorkbench.exe`.
 
 ---
 
